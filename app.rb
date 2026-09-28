@@ -1,6 +1,6 @@
 # vertquery -- a one-page tool for pasting a request straight at a GeoService
-# (see vertbase's docs/api/geo_query_spec.md) and seeing the raw response back.
-# Run with: bundle exec ruby app.rb   (defaults to http://localhost:4567)
+# (see @vertelligence's geo_query_spec.md) and seeing the raw response back.
+# Run with: bundle exec ruby app.rb
 
 require "sinatra"
 require "net/http"
